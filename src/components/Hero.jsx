@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section id="inicio" className="relative h-screen flex justify-center items-center text-center px-4">
       <div className="absolute inset-0 z-0 bg-black">
-        <img src="/hero-bg.jpeg" alt="Fondo Cerezas de Cafe" className="w-full h-full object-cover opacity-60" />
+        <img src="/hero-bg.jpg" alt="Fondo Cerezas de Cafe" className="w-full h-full object-cover opacity-60" />
       </div>
       <div className="relative z-20 max-w-4xl mx-auto space-y-6 mt-16">
         <motion.div initial={{opacity:0, scale:0.9}} animate={{opacity:1,scale:1}} transition={{duration:1}} className="mb-6 flex justify-center">
