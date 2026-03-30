@@ -15,7 +15,7 @@ export default function Proceso() {
     {
       titulo: 'Tostado de Autor',
       desc: 'Tostamos cada lote meticulosamente para garantizar la máxima calidad.',
-      img: '/tostado.JPG'
+      img: '/tostado2.JPG'
     }
   ];
 

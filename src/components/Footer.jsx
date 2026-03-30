@@ -27,7 +27,9 @@ export default function Footer() {
         <div>
            <h4 className="text-white font-bold mb-6 tracking-wider uppercase text-xs">Contacto</h4>
            <ul className="space-y-4 text-sm font-medium">
-            <li>+591 71239162</li>
+            <li>+591 71239162 (La Paz)</li>
+            <li>+591 70694641 (Santa Cruz)</li>
+            <li>+591 72088396 (Irupana)</li>
           </ul>
         </div>
 

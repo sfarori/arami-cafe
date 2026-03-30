@@ -11,7 +11,7 @@ export default function Historia() {
             <h2 className="text-4xl md:text-5xl font-extrabold leading-tight">Tradición que se siente en cada taza</h2>
           </div>
           <p className="text-gray-400 leading-relaxed text-lg">
-            En Arami Café, cada grano cuenta una historia de dedicación profunda. Lo que comenzó como un pequeño sueño familiar de los licores de la montaña, se ha convertido en un referente de calidad y respeto por la tierra.
+            La población de Irupana es uno de los pueblos más atractivos de los yungas, un área productora agrícola, entre los productos destacados de esta región se encuentra el café. Es así que se crea Aramí (pedacito de cielo), productora de café orgánico de alta calidad bajo el mando de la familia Soukup.
           </p>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -36,7 +36,7 @@ export default function Historia() {
         <div className="grid grid-cols-2 gap-4 h-[500px]">
           <div className="flex flex-col gap-4">
             <img src="/manos.jpeg" alt="Cosecha manual" className="w-full h-1/2 object-cover rounded-2xl" />
-            <img src="/cultivo.JPG" alt="Cultivo" className="w-full h-1/2 object-cover rounded-2xl" />
+            <img src="/irupana.png" alt="Irupana" className="w-full h-1/2 object-cover rounded-2xl" />
           </div>
           <div className="pt-12">
             <img src="/tostado.JPG" alt="Tostado" className="w-full h-full object-cover rounded-2xl" />
